@@ -22,8 +22,8 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 | Reading           | 🔄 In Progress |
 | Speaking          | ⬜ Not Started |
 | Vocabulary        | 🔄 In Progress |
-| [Grammar]()           | 🔄 In Progress |
-| Mock Tests Record | 🔄 In Progress |
+| [Grammar](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Grammar)           | 🔄 In Progress |
+| [Mock Tests Record](https://docs.google.com/spreadsheets/d/1rj9LiPELfygipaHM1EWsRh9Tu0QrgLb1i9KPxh7Lde0/edit?gid=1793447592#gid=1793447592) | 🔄 In Progress |
 
 # 📂 Repository Structure
 
