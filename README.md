@@ -16,14 +16,14 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 
 | Module            |     Status     |
 | :---------------- | :------------: |
-| Writing Task 1    | 🔄 In Progress |
-| Writing Task 2    | ⬜ Not Started |
+| Writing Task 1    | ⬜ Not Started |
+| [Writing Task 2](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Writing/Task-02)    | 🔄 In Progress |
 | Listening         | 🔄 In Progress |
 | Reading           | 🔄 In Progress |
 | Speaking          | ⬜ Not Started |
-| Vocabulary        | ⬜ Not Started |
-| Grammar           | 🔄 In Progress |
-| Mock Tests Record | ⬜ Not Started |
+| Vocabulary        | 🔄 In Progress |
+| [Grammar]()           | 🔄 In Progress |
+| Mock Tests Record | 🔄 In Progress |
 
 # 📂 Repository Structure
 
