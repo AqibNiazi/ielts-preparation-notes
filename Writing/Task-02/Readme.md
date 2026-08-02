@@ -10,15 +10,14 @@ This section covers the essential skills required to write high-scoring IELTS Ta
 
 ## Modules
 
-| Module                         |                                                                        Slides                                                                        |                                            Quizzes                                            |                                           Resources                                           |
-| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| Module 1- Welcome and Overview | [slides](https://docs.google.com/presentation/d/13V_ycdOb6qIeANnPIw28wBHcSDRDzDIb/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [Quiz](https://drive.google.com/file/d/1W-9KTK0hkn-Ocr4DesVzYbrJwzbnwKwo/view?usp=drive_link) | [Quiz](https://drive.google.com/file/d/1W-9KTK0hkn-Ocr4DesVzYbrJwzbnwKwo/view?usp=drive_link) |
-| Module 2                       |                                                                    🚧 Coming Soon                                                                    |                                        🚧 Coming Soon                                         |                                        🚧 Coming Soon                                         |
-| Module 3                       |                                                                    🚧 Coming Soon                                                                    |                                        🚧 Coming Soon                                         |                                        🚧 Coming Soon                                         |
-| Module 4                       |                                                                    🚧 Coming Soon                                                                    |                                        🚧 Coming Soon                                         |                                        🚧 Coming Soon                                         |
-| Module 5                       |                                                                    🚧 Coming Soon                                                                    |                                        🚧 Coming Soon                                         |                                        🚧 Coming Soon                                         |
-| Module 6                       |                                                                    🚧 Coming Soon                                                                    |                                        🚧 Coming Soon                                         |                                        🚧 Coming Soon                                         |
-
+| Module | Slides | Resources |
+| :----- | :----: | :-------: |
+| Module 1 - Welcome and Overview | [📑 Slides](https://docs.google.com/presentation/d/13V_ycdOb6qIeANnPIw28wBHcSDRDzDIb/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1W-9KTK0hkn-Ocr4DesVzYbrJwzbnwKwo/view?usp=drive_link) |
+| Module 2 - Understand and Analyse ANY Task 2 Question | [📑 Slides](https://docs.google.com/presentation/d/1n5kudfXkcQ6kwj027o4IwHpcj6UsMU-x/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1z4YN10cEAVbPhpgKU1qm882Y_PWgO5tq/view?usp=drive_link)|
+| Module 3 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 4 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 5 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 6 | 🚧 Coming Soon | 🚧 Coming Soon |
 ## Learning Outcomes
 
 After completing this section, learners should be able to:
