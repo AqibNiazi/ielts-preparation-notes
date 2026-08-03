@@ -15,8 +15,7 @@ This section covers the essential skills required to write high-scoring IELTS Ta
 | Module 1 - Welcome and Overview | [📑 Slides](https://docs.google.com/presentation/d/13V_ycdOb6qIeANnPIw28wBHcSDRDzDIb/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1W-9KTK0hkn-Ocr4DesVzYbrJwzbnwKwo/view?usp=drive_link) |
 | Module 2 - Understand and Analyse ANY Task 2 Question | [📑 Slides](https://docs.google.com/presentation/d/1n5kudfXkcQ6kwj027o4IwHpcj6UsMU-x/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1z4YN10cEAVbPhpgKU1qm882Y_PWgO5tq/view?usp=drive_link)|
 | Module 3 - How to Think Like an Examiner | [📑 Slides](https://docs.google.com/presentation/d/1Ff1gykB-f6FL14Wz_-fkLVlDclXmKUCE/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/13idigNeMK_6-vqTgQcOVau9Rvf1RtzTr/view?usp=drive_link)|
-| Module 3 | 🚧 Coming Soon | 🚧 Coming Soon |
-| Module 4 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 4 - Ideas and Reducing Language Errors | [📑 Slides](https://docs.google.com/presentation/d/1sfklza3m0zWNTsTIMV6WkETpQVNCPLkf/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1Qq0WJexyyKYOIjGx5xxbHBn7AkUpsPHb/view?usp=drive_link)|
 | Module 5 | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 6 | 🚧 Coming Soon | 🚧 Coming Soon |
 ## Learning Outcomes
