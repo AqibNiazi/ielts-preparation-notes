@@ -18,8 +18,9 @@ This section covers the essential skills required to write high-scoring IELTS Ta
 | Module 4 - Ideas and Reducing Language Errors | [📑 Slides](https://docs.google.com/presentation/d/1sfklza3m0zWNTsTIMV6WkETpQVNCPLkf/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1Qq0WJexyyKYOIjGx5xxbHBn7AkUpsPHb/view?usp=drive_link)|
 | Module 5 - Introductions | [📑 Slides](https://docs.google.com/presentation/d/1yeDsxbbrg4cOOX_MoaL-O1QaPk4ov-PJ/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1c-VNfIw18hWqzWDZBvJYVWCjlGzVscFv/view?usp=drive_link)|
 | Module 6 - Main Body Paragraphs | [📑 Slides](https://docs.google.com/presentation/d/1kcu3h4tLjyBoL7LGk2JzAVELApIKYs2S/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1UfPGPaqLUAYl5rdGh4OpIHJRY_GIsFSH/view?usp=drive_link)|
-| Module 6 | 🚧 Coming Soon | 🚧 Coming Soon |
-| Module 6 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 7 - Conclusion | [📑 Slides](https://docs.google.com/presentation/d/1aJxZh8PqyT3r9J6yp5MtJ881ri8Fa5RM/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1i7W6ho8G_yUiV6JU5fSUm03oYlJeRhZg/view?usp=drive_link)|
+| Module 8 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 9 | 🚧 Coming Soon | 🚧 Coming Soon |
 ## Learning Outcomes
 
 After completing this section, learners should be able to:
