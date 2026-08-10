@@ -12,7 +12,10 @@ This section focuses on the core grammar concepts needed to improve accuracy and
 
 | Module                                                     |                                                                        Slides                                                                        |   Resources    |
 | :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
-| Module 1- Marking Criteria, Common Errors and Proofreading | [slides](https://docs.google.com/presentation/d/193YwJkvqji3PIIKlRFoMgDEacd7Bl51F/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | 🚧 Coming Soon |
+| Module 01 - Marking Criteria, Common Errors and Proofreading | [slides](https://docs.google.com/presentation/d/193YwJkvqji3PIIKlRFoMgDEacd7Bl51F/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
+| Module 02 - Simple vs. Complex Sentences | [slides](https://docs.google.com/presentation/d/10ZBbHzMtWcWuSpAmBEsRVC6nxAJucZrl/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
+| Module 03 - Articles | [slides](https://docs.google.com/presentation/d/17GksDK2M8ck7LKtdHeAZ0xd4fJsHVSKo/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
+| Module 04 - Nouns| [slides](https://docs.google.com/presentation/d/1T4jIMxn7ULVCZUtbc8OSdrG-xfXV4_vg/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
 | Module 2                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
 | Module 3                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
 | Module 4                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
