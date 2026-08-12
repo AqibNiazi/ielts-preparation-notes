@@ -20,8 +20,9 @@ This section covers the essential skills required to write high-scoring IELTS Ta
 | Module 6 - Main Body Paragraphs | [📑 Slides](https://docs.google.com/presentation/d/1kcu3h4tLjyBoL7LGk2JzAVELApIKYs2S/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1UfPGPaqLUAYl5rdGh4OpIHJRY_GIsFSH/view?usp=drive_link)|
 | Module 7 - Conclusion | [📑 Slides](https://docs.google.com/presentation/d/1aJxZh8PqyT3r9J6yp5MtJ881ri8Fa5RM/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1i7W6ho8G_yUiV6JU5fSUm03oYlJeRhZg/view?usp=drive_link)|
 | Module 8 - Opinion Essays | [📑 Slides](https://docs.google.com/presentation/d/1DLSD5R7XVnz8_lnLU4xvry04lQ5plO3P/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1A9aU1lMDdf64VtflPz1bLUKSogvAItyL/view?usp=drive_link)|
-| Module 8 | 🚧 Coming Soon | 🚧 Coming Soon |
-| Module 9 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 9 - Discussion Essays | [📑 Slides](https://docs.google.com/presentation/d/1h4ywWvP-YaRVivavNudPXsDT4nS1aNHq/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/drive/folders/1IvPQ7UOx5zY_3oPYiSCJGchiXBPsqG_v)|
+| Module 10 | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 11 | 🚧 Coming Soon | 🚧 Coming Soon |
 ## Learning Outcomes
 
 After completing this section, learners should be able to:
