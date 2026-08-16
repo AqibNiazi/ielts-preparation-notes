@@ -9,6 +9,7 @@ The materials are organized module-wise to make revision and future teaching eas
 | Module   |     Slides     |   Assignments    |
 | :------- | :------------: | :------------: |
 | Module 1 - Question Types and Marking Criteria | [📑 Slides](https://docs.google.com/presentation/d/1YzoJRKY3202qutEM2irqI3a0vsf0Ivkw/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Assignments](https://drive.google.com/file/d/1tVA3JnqF4Casd5x8G6s62z-GP6xM2_hX/view?usp=drive_link) |
+| Module 2 - Analyse Graphs, Charts and Tables | [📑 Slides](https://docs.google.com/presentation/d/13fxIYv2v7bS7dG8tUTDdnFxm3_mrc0qr/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Assignments](https://drive.google.com/file/d/175N_X4eNGmr_yZh-ZUL-oTpzN0out5Yy/view?usp=drive_link) |
 | Module 2 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 3 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
 | Module 4 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
