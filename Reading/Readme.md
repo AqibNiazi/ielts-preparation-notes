@@ -1,44 +1,55 @@
 # 📖 IELTS Reading
 
-This section contains lecture slides and additional learning resources created while studying the **IELTS Advantage VIP Course**.
+This section contains lecture slides, practice materials, and video lectures created while studying the **IELTS Advantage VIP Course**.
 
-The materials are organized module-wise to help learners develop effective reading strategies, improve comprehension skills, and build confidence for the IELTS Reading test.
+The materials are organized by IELTS Reading question type to help learners understand the required techniques, practice each question type, and review the corresponding lecture materials.
 
 ## Course Overview
 
-This section focuses on the essential techniques and strategies required to achieve a high score in the IELTS Reading module. It covers question types, reading strategies, time management, vocabulary development, and methods for analyzing academic passages efficiently.
+This section covers the major IELTS Reading question types, along with techniques, practice materials, lecture slides, and video explanations.
 
-## Modules
+The resources are designed to support IELTS preparation, revision, and future teaching.
 
-| Module                                  |                                                                         Slides                                                                          |                                               Resources                                               |
-| :-------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| Module 01 - Welcome to the Course       | [📑 Slides](https://docs.google.com/presentation/d/1UFegfgEXM8XLnDPSr1pgX4H_vWiXfquQ/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1mLOm7ah3oVEo3eEdgthlfoTrAIHlQ9_-/view?usp=drive_link) |
-| Module 02 - Learning from your Mistakes | [📑 Slides](https://docs.google.com/presentation/d/1CIoYPz7j2qxJlXsemAlc3GzlG0JwrnHv/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
-| Module 03 - Short Answer       | [📑 Slides](https://docs.google.com/presentation/d/1Te-4trdlexTOGOxuiv5LI3Cs0UvmlwpB/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1OM--Qo7ELJjnG-OoGH0yNANakS8Z-GEk/view?usp=drive_link) |
-| Module 04 - Matching Headings       | [📑 Slides](https://docs.google.com/presentation/d/1kuT_wog-qsE7cAjlVe8Xn6H7AT_pBd-O/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1nXHZH97vpi5zzqrRAZdXoLAHwgmMX-QW/view?usp=drive_link) |
-| Module 05 - Reading Complete Guide      | [📑 Slides](https://docs.google.com/presentation/d/1ZQbO_bJbGS9LCHj_4I0U_CkMrC2gJDVp/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view?usp=drive_link) |
-| Module 2                                |                                                                     🚧 Coming Soon                                                                      |                                            🚧 Coming Soon                                             |
-| Module 3                                |                                                                     🚧 Coming Soon                                                                      |                                            🚧 Coming Soon                                             |
-| Module 4                                |                                                                     🚧 Coming Soon                                                                      |                                            🚧 Coming Soon                                             |
-| Module 5                                |                                                                     🚧 Coming Soon                                                                      |                                            🚧 Coming Soon                                             |
-| Module 6                                |                                                                     🚧 Coming Soon                                                                      |                                            🚧 Coming Soon                                             |
+## Reading Question Types
+
+| Question Type | Slides | Resources | Video Lecture |
+| :------------ | :----: | :-------: | :-----------: |
+| **True / False / Not Given** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
+| **Sentence Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
+| **Matching Headings** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/WlHDCkbbI7g) |
+| **Matching Names / Information to People** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/WlHDCkbbI7g) |
+| **Yes / No / Not Given** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/qBfpOfgfr3Y) |
+| **Matching Sentence Endings** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/xZJIfxwMLfU) |
+| **Labelling a Diagram** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/N9SGQbwKi5k) |
+| **Table Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/N9SGQbwKi5k) |
+| **Multiple Choice Questions** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Matching Information** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Summary Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Note Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Flow-chart Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Short Answer Questions** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
 
 ## Learning Outcomes
 
 After completing this section, learners should be able to:
 
-- Understand the format and requirements of the IELTS Reading test.
-- Apply effective reading strategies to answer questions accurately and efficiently.
+- Understand the major IELTS Reading question types.
+- Apply appropriate techniques to different question types.
+- Identify keywords and locate relevant information efficiently.
 - Improve skimming, scanning, and detailed reading skills.
-- Build vocabulary and comprehension for academic texts.
-- Manage time effectively during the reading test.
-- Improve reading performance for IELTS and academic study.
+- Practice questions using IELTS-style reading passages.
+- Analyze mistakes and improve accuracy.
+- Manage time effectively during the IELTS Reading test.
 
 ## Notes
 
 These materials are created for learning, revision, IELTS preparation, academic reading improvement, and future teaching purposes.
 
-Each module contains:
+Each question type may include:
 
-- 📑 Lecture Slides
-- 📚 Learning Resources (Practice Passages, Question Types, Strategy Notes, Vocabulary Lists, and Additional Reference Materials)
+- 📑 Lecture Slides / Reading E-Book
+- 📚 Practice Resources
+- 🎥 Video Lecture
+- 📝 Technique and Strategy Notes
+
+A `—` indicates that a video lecture has not yet been recorded for that question type.
