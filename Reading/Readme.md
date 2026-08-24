@@ -23,7 +23,7 @@ The resources are designed to support IELTS preparation, revision, and future te
 | **Labelling a Diagram** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/N9SGQbwKi5k) |
 | **Table Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/N9SGQbwKi5k) |
 | **Multiple Choice Questions** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | [Passage-3](https://engnovate.com/ielts-reading-tests/cambridge-ielts-19-academic-reading-test-1/) | [🎥 Watch Lecture](https://youtu.be/Yt8q810MCkQ)|
-| **Matching Information** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
+| **Matching Information** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | [Passage-2](https://engnovate.com/ielts-reading-tests/cambridge-ielts-19-academic-reading-test-1/) |  [🎥 Watch Lecture](https://youtu.be/KRNxukAcNuo) |
 | **Summary Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
 | **Note Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
 | **Flow-chart Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | — |
