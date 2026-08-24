@@ -14,8 +14,8 @@ The resources are designed to support IELTS preparation, revision, and future te
 
 | Question Type | Slides | Resources | Video Lecture |
 | :------------ | :----: | :-------: | :-----------: |
-| **True / False / Not Given** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
-| **Sentence Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
+| **True / False / Not Given** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | [Passage-1](https://engnovate.com/ielts-reading-tests/cambridge-ielts-14-academic-reading-test-2/) | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
+| **Sentence Completion** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | [Passage-1](https://engnovate.com/ielts-reading-tests/cambridge-ielts-14-academic-reading-test-2/) | [🎥 Watch Lecture](https://youtu.be/IGeN1QdPeAk) |
 | **Matching Headings** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/WlHDCkbbI7g) |
 | **Matching Names / Information to People** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/WlHDCkbbI7g) |
 | **Yes / No / Not Given** | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) | 🚧 Coming Soon | [🎥 Watch Lecture](https://youtu.be/qBfpOfgfr3Y) |
