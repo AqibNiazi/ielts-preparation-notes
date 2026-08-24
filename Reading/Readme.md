@@ -4,11 +4,6 @@ This section contains lecture slides, practice materials, and video lectures cre
 
 The materials are organized by IELTS Reading question type to help learners understand the required techniques, practice each question type, and review the corresponding lecture materials.
 
-## Course Overview
-
-This section covers the major IELTS Reading question types, along with techniques, practice materials, lecture slides, and video explanations.
-
-The resources are designed to support IELTS preparation, revision, and future teaching.
 
 ## Reading Question Types
 
