@@ -1,9 +1,3 @@
-# 📝 IELTS Writing
-
-This section contains lecture slides, practice materials, assignments, resources, and video lectures created while studying the **IELTS Advantage VIP Course**.
-
-The materials are organized by IELTS Writing task and module to support structured learning, revision, IELTS preparation, and future teaching.
-
 # 📝 IELTS Writing Task 1
 
 This section focuses on the skills and techniques required for IELTS Academic Writing Task 1, including understanding question types, analyzing visual information, identifying key features, and organizing reports effectively.
