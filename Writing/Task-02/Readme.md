@@ -47,4 +47,4 @@ Each module may contain:
 - 📚 Practice and Learning Resources
 - 🎥 Video Lectures
 
-A `—` indicates that a dedicated video lecture has not yet been added for that module.
+⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**

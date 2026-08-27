@@ -41,3 +41,5 @@ Each module contains:
 
 - 📑 Lecture Slides
 - 📚 Learning Resources (Grammar Notes, Practice Exercises, Reference Materials, and Additional Resources)
+
+⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**

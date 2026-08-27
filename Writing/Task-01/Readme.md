@@ -33,3 +33,5 @@ Each module includes:
 - 📑 Lecture Slides
 - 📝 Assignments
 - 📚 Additional Resources
+
+⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**

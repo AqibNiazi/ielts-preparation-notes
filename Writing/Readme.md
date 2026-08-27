@@ -71,4 +71,4 @@ The materials in this section are organized by module and may include:
 - 📚 Practice and Learning Resources
 - 🎥 Video Lectures
 
-Video lectures will be added as they are recorded and published.
+⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**

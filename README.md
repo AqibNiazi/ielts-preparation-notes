@@ -21,9 +21,8 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 | Listening         | 🔄 In Progress |
 | [Reading](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Reading/Readme.md)           | ✅ Completed |
 | Speaking          | ⬜ Not Started |
-| Vocabulary        | 🔄 In Progress |
 | [Grammar](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Grammar)           | 🔄 In Progress |
-| [Mock Tests Record](https://docs.google.com/spreadsheets/d/1rj9LiPELfygipaHM1EWsRh9Tu0QrgLb1i9KPxh7Lde0/edit?gid=1793447592#gid=1793447592) | 🔄 In Progress |
+| [Vocabulary Sheet](https://docs.google.com/spreadsheets/d/1rj9LiPELfygipaHM1EWsRh9Tu0QrgLb1i9KPxh7Lde0/edit?gid=988268733#gid=988268733) | 🔄 In Progress |
 
 # 📂 Repository Structure
 
@@ -34,14 +33,5 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 - 🗣️ Speaking
 - 📚 Vocabulary
 - 📘 Grammar
-- 📝 Mock Tests
 
-# 🎓 Purpose
-
-This repository serves as:
-
-- A structured IELTS study journal
-- A collection of teaching materials
-- A revision resource
-- A progress tracker
-- A future reference for students preparing for IELTS
+⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**
