@@ -23,7 +23,7 @@ This section covers the essential skills required to write high-scoring IELTS Ta
 | Module 9 - Discussion Essay | [📑 Slides](https://docs.google.com/presentation/d/1h4ywWvP-YaRVivavNudPXsDT4nS1aNHq/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/drive/folders/1IvPQ7UOx5zY_3oPYiSCJGchiXBPsqG_v) | [🎥 Watch Lecture](https://youtu.be/OBlPg0k8qTo) |
 | Module 10 - Problem/Cause Solution Essay | [📑 Slides](https://docs.google.com/presentation/d/1JHNGUkGgX19iKtRjwYe-4blzgQ-H0lZn/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/drive/u/0/folders/1lDBOp9hvq0hDIB-OjLXX15MqaVn5fXMv) | [🎥 Watch Lecture](https://youtu.be/FkSLlBGb2go) |
 | Module 11 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
-| Module 12 | 🚧 Coming Soon | 🚧 Coming Soon | 🚧 Coming Soon |
+| Module 12 - Double Questions Essay | [📑 Slides](https://docs.google.com/presentation/d/1KiMq-Tlqq0KsPm81XuRGemJYFuPzsaC0/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Resources](https://drive.google.com/drive/folders/1kUVajgj2uf_jakNAdBjrpoVnpaEJxklI) | [🎥 Watch Lecture](https://youtu.be/-iX_ODZG_Ho) |
 
 ## Learning Outcomes
 
