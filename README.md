@@ -17,7 +17,7 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 | Module            |     Status     |
 | :---------------- | :------------: |
 | [Writing Task 1](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Writing/Task-01)    | 🔄 In Progress |
-| [Writing Task 2](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Writing/Task-02)    | 🔄 In Progress |
+| [Writing Task 2](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Writing/Task-02)    | ✅ Completed |
 | Listening         | 🔄 In Progress |
 | [Reading](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Reading/Readme.md)           | ✅ Completed |
 | Speaking          | ⬜ Not Started |
