@@ -4,18 +4,6 @@ This section contains lecture slides, practice materials, and video lectures cre
 
 The materials are organized by IELTS Reading question type to help learners understand the required techniques, practice each question type, and review the corresponding lecture materials.
 
-## Learning Outcomes
-
-After completing this section, learners should be able to:
-
-* Understand the major IELTS Reading question types.
-* Apply appropriate techniques to different question types.
-* Identify keywords and locate relevant information efficiently.
-* Improve skimming, scanning, and detailed reading skills.
-* Practice questions using IELTS-style reading passages.
-* Analyze mistakes and improve accuracy.
-* Manage time effectively during the IELTS Reading test.
-
 ## Reading Question Types
 
 | Question Type                              |                                            Slides                                           |                                                    Resources                                                   |                   Video Lecture                  |
@@ -31,6 +19,18 @@ After completing this section, learners should be able to:
 | **Multiple Choice Questions**              | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) |       [Passage-3](https://engnovate.com/ielts-reading-tests/cambridge-ielts-19-academic-reading-test-1/)       | [🎥 Watch Lecture](https://youtu.be/Yt8q810MCkQ) |
 | **Matching Information + Two Choices**     | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) |       [Passage-2](https://engnovate.com/ielts-reading-tests/cambridge-ielts-19-academic-reading-test-1/)       | [🎥 Watch Lecture](https://youtu.be/KRNxukAcNuo) |
 | **Summary Completion**                     | [📑 Reading E-Book](https://drive.google.com/file/d/1Z15uR3CyVxQLz-vJCwWt5Mp9L-iA-u1S/view) |       [Passage-2](https://engnovate.com/ielts-reading-tests/cambridge-ielts-19-academic-reading-test-1/)       | [🎥 Watch Lecture](https://youtu.be/JRuC5fKfOjQ) |
+
+## Learning Outcomes
+
+After completing this section, learners should be able to:
+
+* Understand the major IELTS Reading question types.
+* Apply appropriate techniques to different question types.
+* Identify keywords and locate relevant information efficiently.
+* Improve skimming, scanning, and detailed reading skills.
+* Practice questions using IELTS-style reading passages.
+* Analyze mistakes and improve accuracy.
+* Manage time effectively during the IELTS Reading test.
 
 ## Notes
 
