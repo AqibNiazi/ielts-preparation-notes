@@ -8,7 +8,7 @@ The materials are organized by lecture to help learners understand the IELTS Spe
 
 | Lecture        | Topic                                                | Slides | Resources | Video Lecture |
 | :------------- | :--------------------------------------------------- | :----: | :-------: | :-----------: |
-| **Lecture 01** | Introduction to IELTS Speaking & Assessment Criteria |   —    |     —     |       —       |
+| **Lecture 01** | Introduction to IELTS Speaking & Assessment Criteria |   [📝 Slides](https://docs.google.com/presentation/d/1erYH54rsvX5rAkmyc5w3UXTqKC0LBhzd/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true)   |    [📘 Makkar Book May - August](https://drive.google.com/file/d/1fQCtDBu4EFQqwf51XkW4kGlfgAWZlBbt/view?usp=drive_link)     |       [🎥 Part one](https://drive.google.com/file/d/1JVHLau1dw6PYljIn7JfHBTBZVIbrP0yr/view?usp=drive_link), [🎥 Part 2](https://drive.google.com/file/d/19BtZT6CJBMIX0IU68Xo9RhOFesYq4QEl/view?usp=drive_link)      |
 | **Lecture 02** | Speaking Part 1 & Developing Answers                 |   —    |     —     |       —       |
 | **Lecture 03** | Speaking Part 2 & Part 3 Strategies                  |   —    |     —     |       —       |
 

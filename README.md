@@ -20,7 +20,7 @@ This repository documents my learning journey using the **IELTS Advantage VIP Co
 | [Writing Task 2](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Writing/Task-02)    | ✅ Completed |
 | [Listening](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Listening/Readme.md)         | 🔄 In Progress |
 | [Reading](https://github.com/AqibNiazi/ielts-preparation-notes/blob/main/Reading/Readme.md)           | ✅ Completed |
-| Speaking          | ⬜ Not Started |
+| [Speaking](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Speaking)          | 🔄 In Progress |
 | [Grammar](https://github.com/AqibNiazi/ielts-preparation-notes/tree/main/Grammar)           | 🔄 In Progress |
 | [Vocabulary Sheet](https://docs.google.com/spreadsheets/d/1rj9LiPELfygipaHM1EWsRh9Tu0QrgLb1i9KPxh7Lde0/edit?gid=988268733#gid=988268733) | 🔄 In Progress |
 
