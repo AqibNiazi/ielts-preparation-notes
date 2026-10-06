@@ -1,3 +1,11 @@
+Yes. Since you want to maintain **three different versions of the learning material** for every grammar module, I would rename the columns clearly rather than using a generic “Slides” and “Resources” column:
+
+1. **Crispell Slides**
+2. **Master Resource**
+3. **Claude Slides**
+
+I also corrected the duplicate placeholder modules so the structure remains consistent with Modules 01–05 and future modules.
+
 # 📘 IELTS Grammar Lecture Notes
 
 This section contains lecture slides and additional learning resources created while studying the **IELTS Advantage VIP Course**.
@@ -10,36 +18,47 @@ This section focuses on the core grammar concepts needed to improve accuracy and
 
 ## Modules
 
-| Module                                                     |                                                                        Slides                                                                        |   Resources    |
-| :--------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
-| Module 01 - Marking Criteria, Common Errors and Proofreading | [slides](https://docs.google.com/presentation/d/193YwJkvqji3PIIKlRFoMgDEacd7Bl51F/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
-| Module 02 - Simple vs. Complex Sentences | [slides](https://docs.google.com/presentation/d/10ZBbHzMtWcWuSpAmBEsRVC6nxAJucZrl/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
-| Module 03 - Articles | [slides](https://docs.google.com/presentation/d/17GksDK2M8ck7LKtdHeAZ0xd4fJsHVSKo/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [Complete_Guide](https://docs.google.com/document/d/1-0dyzpPugSIICSK2iOENCh4z76RJzC22XhYex8TvYrk/edit?usp=sharing) |
-| Module 04 - Nouns| [slides](https://docs.google.com/presentation/d/1T4jIMxn7ULVCZUtbc8OSdrG-xfXV4_vg/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | — |
-| Module 05 - Subject Verb Agreement | [slides](https://docs.google.com/presentation/d/1j9VbTqcA9wi7MNmkqE0EzwzSj1nF6ZJ_/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [Complete_Guide](https://docs.google.com/presentation/d/11LtfDMmCippuYadSzqlFMwzW0k5zxt9j/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |
-| Module 2                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
-| Module 3                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
-| Module 4                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
-| Module 5                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
-| Module 6                                                   |                                                                    🚧 Coming Soon                                                                    | 🚧 Coming Soon |
+| Module                                                           |                                                                     Criss Pell's Slides                                                                     |                                                                         Master Resource                                                                         |  Claude Slides |
+| :--------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+| **Module 01 - Marking Criteria, Common Errors and Proofreading** | [📑 Slides](https://docs.google.com/presentation/d/193YwJkvqji3PIIKlRFoMgDEacd7Bl51F/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |                                                                                —                                                                                |        —       |
+| **Module 02 - Simple vs. Complex Sentences**                     | [📑 Slides](https://docs.google.com/presentation/d/10ZBbHzMtWcWuSpAmBEsRVC6nxAJucZrl/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |                                                                                —                                                                                |        —       |
+| **Module 03 - Articles**                                         | [📑 Slides](https://docs.google.com/presentation/d/17GksDK2M8ck7LKtdHeAZ0xd4fJsHVSKo/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |                      [📚 Complete Guide](https://docs.google.com/document/d/1-0dyzpPugSIICSK2iOENCh4z76RJzC22XhYex8TvYrk/edit?usp=sharing)                      |        —       |
+| **Module 04 - Nouns**                                            | [📑 Slides](https://docs.google.com/presentation/d/1T4jIMxn7ULVCZUtbc8OSdrG-xfXV4_vg/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |                                                                                —                                                                                |        —       |
+| **Module 05 - Subject-Verb Agreement**                           | [📑 Slides](https://docs.google.com/presentation/d/1j9VbTqcA9wi7MNmkqE0EzwzSj1nF6ZJ_/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) | [📚 Complete Guide](https://docs.google.com/presentation/d/11LtfDMmCippuYadSzqlFMwzW0k5zxt9j/edit?usp=drive_link&ouid=108600821921650122239&rtpof=true&sd=true) |        —       |
+| **Module 06**                                                    |                                                                      🚧 Coming Soon                                                                     |                                                                          🚧 Coming Soon                                                                         | 🚧 Coming Soon |
+| **Module 07**                                                    |                                                                      🚧 Coming Soon                                                                     |                                                                          🚧 Coming Soon                                                                         | 🚧 Coming Soon |
+| **Module 08**                                                    |                                                                      🚧 Coming Soon                                                                     |                                                                          🚧 Coming Soon                                                                         | 🚧 Coming Soon |
+| **Module 09**                                                    |                                                                      🚧 Coming Soon                                                                     |                                                                          🚧 Coming Soon                                                                         | 🚧 Coming Soon |
+| **Module 10**                                                    |                                                                      🚧 Coming Soon                                                                     |                                                                          🚧 Coming Soon                                                                         | 🚧 Coming Soon |
 
 ## Learning Outcomes
 
 After completing this section, learners should be able to:
 
-- Understand and apply essential English grammar rules for the IELTS exam.
-- Write grammatically accurate and well-structured sentences.
-- Identify and correct common grammatical errors.
-- Improve grammatical range and accuracy in IELTS Writing and Speaking.
-- Build a stronger foundation for academic writing and professional communication.
+* Understand and apply essential English grammar rules for the IELTS exam.
+* Write grammatically accurate and well-structured sentences.
+* Identify and correct common grammatical errors.
+* Improve grammatical range and accuracy in IELTS Writing and Speaking.
+* Build a stronger foundation for academic writing and professional communication.
 
 ## Notes
 
 These materials are created for learning, revision, IELTS preparation, academic writing improvement, and future teaching purposes.
 
-Each module contains:
+Each module may contain:
 
-- 📑 Lecture Slides
-- 📚 Learning Resources (Grammar Notes, Practice Exercises, Reference Materials, and Additional Resources)
+* 📑 **Crispell Slides**
+* 📚 **Master Resource**
+* 🎨 **Claude Slides**
+* 📝 **Practice Exercises and Additional Resources**
+
+### Resource Types
+
+* **Crispell Slides** — Original lecture slides used for studying the course material.
+* **Master Resource** — Consolidated grammar notes, explanations, examples, exercises, and reference material.
+* **Claude Slides** — Presentation slides created from the master resources for structured revision and future teaching.
+
+Additional materials will be added as the course progresses.
 
 ⭐ **If you find this repository helpful, please leave a star to show your appreciation for the author's hard work!**
+
